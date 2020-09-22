@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1b5fa292.chunk.css",
-    "main.js": "/static/js/main.e182660f.chunk.js",
-    "main.js.map": "/static/js/main.e182660f.chunk.js.map",
+    "main.js": "/static/js/main.e2953572.chunk.js",
+    "main.js.map": "/static/js/main.e2953572.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d7a64642.js",
     "runtime-main.js.map": "/static/js/runtime-main.d7a64642.js.map",
-    "static/js/2.9451d054.chunk.js": "/static/js/2.9451d054.chunk.js",
-    "static/js/2.9451d054.chunk.js.map": "/static/js/2.9451d054.chunk.js.map",
+    "static/js/2.aaeba422.chunk.js": "/static/js/2.aaeba422.chunk.js",
+    "static/js/2.aaeba422.chunk.js.map": "/static/js/2.aaeba422.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5118480516ba672d1ad424d3b97139fc.js": "/precache-manifest.5118480516ba672d1ad424d3b97139fc.js",
+    "precache-manifest.f7a20b881056517593d76e68c7c08723.js": "/precache-manifest.f7a20b881056517593d76e68c7c08723.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1b5fa292.chunk.css.map": "/static/css/main.1b5fa292.chunk.css.map",
-    "static/js/2.9451d054.chunk.js.LICENSE.txt": "/static/js/2.9451d054.chunk.js.LICENSE.txt",
+    "static/js/2.aaeba422.chunk.js.LICENSE.txt": "/static/js/2.aaeba422.chunk.js.LICENSE.txt",
     "static/media/BAT-logo.png": "/static/media/BAT-logo.a36574cc.png",
     "static/media/BUSD-logo.png": "/static/media/BUSD-logo.d569caee.png",
     "static/media/Balancer Pool-logo.png": "/static/media/Balancer Pool-logo.b873063a.png",
@@ -45,7 +45,7 @@
     "static/media/clint-mckoy.jpg": "/static/media/clint-mckoy.9f17b8f6.jpg",
     "static/media/compound.curve.fi-logo.png": "/static/media/compound.curve.fi-logo.a2ebc204.png",
     "static/media/iDAI-logo.png": "/static/media/iDAI-logo.f26d381d.png",
-    "static/media/stake-header-background.png": "/static/media/stake-header-background.f1ec52d1.png",
+    "static/media/stake-head-right.png": "/static/media/stake-head-right.2c83d3e2.png",
     "static/media/usdt.curve.fi-logo.png": "/static/media/usdt.curve.fi-logo.a2ebc204.png",
     "static/media/wBTC-logo.png": "/static/media/wBTC-logo.5c1a712d.png",
     "static/media/wechat.png": "/static/media/wechat.6bf53c40.png",
@@ -57,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d7a64642.js",
-    "static/js/2.9451d054.chunk.js",
+    "static/js/2.aaeba422.chunk.js",
     "static/css/main.1b5fa292.chunk.css",
-    "static/js/main.e182660f.chunk.js"
+    "static/js/main.e2953572.chunk.js"
   ]
 }
