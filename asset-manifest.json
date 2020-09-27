@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6a264358.chunk.css",
-    "main.js": "/static/js/main.5237d00e.chunk.js",
-    "main.js.map": "/static/js/main.5237d00e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3584ccd4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3584ccd4.js.map",
-    "static/js/2.a291777c.chunk.js": "/static/js/2.a291777c.chunk.js",
-    "static/js/2.a291777c.chunk.js.map": "/static/js/2.a291777c.chunk.js.map",
+    "main.js": "/static/js/main.7f3647e6.chunk.js",
+    "main.js.map": "/static/js/main.7f3647e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7a64642.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7a64642.js.map",
+    "static/js/2.9327ec63.chunk.js": "/static/js/2.9327ec63.chunk.js",
+    "static/js/2.9327ec63.chunk.js.map": "/static/js/2.9327ec63.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.66fad5a74f6311ae3896b5c1192b0537.js": "/precache-manifest.66fad5a74f6311ae3896b5c1192b0537.js",
+    "precache-manifest.b13d0907e825f13619d1f897d28d7a70.js": "/precache-manifest.b13d0907e825f13619d1f897d28d7a70.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.6a264358.chunk.css.map": "/static/css/main.6a264358.chunk.css.map",
-    "static/js/2.a291777c.chunk.js.LICENSE.txt": "/static/js/2.a291777c.chunk.js.LICENSE.txt",
+    "static/js/2.9327ec63.chunk.js.LICENSE.txt": "/static/js/2.9327ec63.chunk.js.LICENSE.txt",
     "static/media/BAT-logo.png": "/static/media/BAT-logo.a36574cc.png",
     "static/media/BUSD-logo.png": "/static/media/BUSD-logo.d569caee.png",
     "static/media/Balancer Pool-logo.png": "/static/media/Balancer Pool-logo.b873063a.png",
@@ -45,7 +45,9 @@
     "static/media/clint-mckoy.jpg": "/static/media/clint-mckoy.9f17b8f6.jpg",
     "static/media/compound.curve.fi-logo.png": "/static/media/compound.curve.fi-logo.a2ebc204.png",
     "static/media/iDAI-logo.png": "/static/media/iDAI-logo.f26d381d.png",
+    "static/media/pool4-logo.png": "/static/media/pool4-logo.290fda47.png",
     "static/media/stake-head-right.png": "/static/media/stake-head-right.2c83d3e2.png",
+    "static/media/stake-hint.svg": "/static/media/stake-hint.be932969.svg",
     "static/media/usdt.curve.fi-logo.png": "/static/media/usdt.curve.fi-logo.a2ebc204.png",
     "static/media/wBTC-logo.png": "/static/media/wBTC-logo.5c1a712d.png",
     "static/media/wechat.png": "/static/media/wechat.6bf53c40.png",
@@ -56,9 +58,9 @@
     "static/media/yearn.finance-logo.png": "/static/media/yearn.finance-logo.64055e3f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3584ccd4.js",
-    "static/js/2.a291777c.chunk.js",
+    "static/js/runtime-main.d7a64642.js",
+    "static/js/2.9327ec63.chunk.js",
     "static/css/main.6a264358.chunk.css",
-    "static/js/main.5237d00e.chunk.js"
+    "static/js/main.7f3647e6.chunk.js"
   ]
 }
